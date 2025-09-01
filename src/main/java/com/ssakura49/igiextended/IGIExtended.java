@@ -14,7 +14,7 @@ import org.slf4j.Logger;
 
 @Mod(IGIExtended.MODID)
 public class IGIExtended {
-    public static final String MODID = "igiextended";
+    public static final String MODID = "igiextended_reborn";
     public static final Logger LOGGER = LogUtils.getLogger();
     public static CompoundTag cachedData =  new CompoundTag();
 
